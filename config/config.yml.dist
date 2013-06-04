@@ -11,11 +11,12 @@
 #
 ---
 session:
-    browser: 'Firefox'
-    browserName: 'firefox'
+    browser: 'Google Chrome'
+    browserName: 'chrome'
     host: 'localhost'
-    seleniumServerRequestsTimeout: 15
+    seleniumServerRequestsTimeout: 25
+    # Server run example:
+    # java -Dwebdriver.chrome.driver="W:\af\vendor\chrome\webdriver\chromedriver.exe" -jar selenium-server-standalone-2.32.0.jar
 
 urls:
-    frontUrl: 'http://frontend.domain/'
-    adminUrl: 'https://backend.domain/'
+    baseUrl: 'https://github.com/blackakula/af'

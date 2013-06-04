@@ -1,0 +1,1 @@
+a:2:{i:0;a:1:{s:4:"item";C:16:"Selenium\Locator":256:{x:i:0;a:2:{s:5:"using";s:5:"xpath";s:5:"value";s:190:"//*[@data-type="tree"]//table[contains(concat(" ",normalize-space(@class)," "), " tree-browser ")]//tr//td[contains(concat(" ",normalize-space(@class)," "), " content ")]//a[text()="%item%"]";};m:a:0:{}}}i:1;a:1:{s:4:"item";i:1;}}
